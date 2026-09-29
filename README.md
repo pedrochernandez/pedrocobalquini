@@ -1,12 +1,12 @@
 <!--título-->
 # 🧑🏻‍💻 Pedro Cobalquini</h1></summary>
 
-**`Analista de dados`**
+**`Desenvolvedor Full-Stack`**
 
 <!-- Presentation -->
 
 <p align="left">
-    Desenvolvo com foco em React, Node.js e JavaScript, aplicando também Docker, Linux e boas práticas de CI/CD nos projetos que construo. Tenho base em Programação Orientada a Objetos, MySQL e MongoDB.
+    Desenvolvo com foco em Java com Spring Boot e JavaScript, aplicando também Docker, Linux e boas práticas de CI/CD nos projetos que construo. Tenho base em Programação Orientada a Objetos, MySQL e MongoDB.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrocobalquini) 
