@@ -1,15 +1,17 @@
 <!--título-->
-# 🧑🏻‍💻 Pedro Cobalquini</h1></summary>
+# 🧑🏻‍💻 Pedro Hernandez</h1></summary>
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Full Stack | Java • Spring Boot • JavaScript`**
 
 <!-- Presentation -->
 
 <p align="left">
-    Desenvolvo com foco em Java com Spring Boot e JavaScript, aplicando também Docker, Linux e boas práticas de CI/CD nos projetos que construo. Tenho base em Programação Orientada a Objetos, MySQL e MongoDB.
+    Desenvolvedor Full Stack, focado na construção de aplicações web utilizando Java, Spring Boot e JavaScript. 
+    Atualmente desenvolvo projetos para aprofundar conhecimentos em arquitetura de software, APIs REST, bancos de dados relacionais e NoSQL, Docker e práticas de CI/CD. Minha experiência também inclui análise de dados, 
+    automação de processos, gestão de projetos de TI e ensino de programação, o que contribui para uma visão mais ampla do desenvolvimento de software.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrocobalquini) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrochernandez) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedrohernandez1903@gmail.com)
 
 <!-- Skills -->
@@ -22,14 +24,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="react" 
-    title="react"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
@@ -81,14 +75,6 @@
 />
 <img 
     align="left" 
-    alt="php" 
-    title="php"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
     alt="docker" 
     title="docker"
     width="30px" 
@@ -98,20 +84,3 @@
 
 <br/>
 <br/>
-
-
-## 📊 Estatísticas
-
-<p>
-    <div align="center">
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrocobalquini&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
-      />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img
-        height="180"
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrocobalquini&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
-      />
-    </div>
-</p>
